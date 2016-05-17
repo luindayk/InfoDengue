@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent">
+
+        <TextView
+            style="@style/texto"
+            android:id="@+id/inicio"
+            android:textAllCaps="true"
+            android:text="Combate ao Mosquito"
+            android:textSize="44sp"
+            android:textStyle="bold"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img1"
+            android:src="@drawable/combata_dengue_03"
+            android:layout_below="@id/inicio"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img2"
+            android:src="@drawable/combata_dengue_05"
+            android:layout_below="@id/img1"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img3"
+            android:src="@drawable/combata_dengue_07"
+            android:layout_below="@id/img2"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img4"
+            android:src="@drawable/combata_dengue_10"
+            android:layout_below="@id/img3"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img5"
+            android:src="@drawable/combata_dengue_12"
+            android:layout_below="@id/img4"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img6"
+            android:src="@drawable/combata_dengue_14"
+            android:layout_below="@id/img5"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img7"
+            android:src="@drawable/combata_dengue_16"
+            android:layout_below="@id/img6"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img8"
+            android:src="@drawable/combata_dengue_18"
+            android:layout_below="@id/img7"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img9"
+            android:src="@drawable/combata_dengue_20"
+            android:layout_below="@id/img8"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img10"
+            android:src="@drawable/combata_dengue_22"
+            android:layout_below="@id/img9"/>
+        <ImageView
+            style="@style/imagem"
+            android:id="@+id/img11"
+            android:src="@drawable/combata_dengue_24"
+            android:layout_below="@id/img10"/>
+        <ImageView
+            style="@style/imagem"
+            android:src="@drawable/combata_dengue_26"
+            android:layout_below="@id/img11"/>
+    </RelativeLayout>
+</ScrollView>

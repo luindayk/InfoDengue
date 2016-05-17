@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Info Dengue</string>
+
+    <!-- Tudo sobre dengue -->
+
+    <string name="oquee_dengue">A dengue é uma doença viral transmitida pelo mosquito Aedes aegypti.
+        No Brasil, foi identificada pela primeira vez em 1986. Estima-se que 50 milhões de infecções
+        por dengue ocorram anualmente no mundo.</string>
+
+    <string name="transmissao_dengue">A principal forma de transmissão é pela picada dos mosquitos
+        Aedes aegypti. Há registros de transmissão vertical (gestante - bebê) e por transfusão de
+        sangue. Existem quatro tipos diferentes de vírus do dengue: DEN-1, DEN-2, DEN-3 e DEN-4.</string>
+
+    <string name="sintomas_dengue">A infecção por dengue pode ser assintomática, leve ou causar doença
+        grave, levando à morte. Normalmente, a primeira manifestação da dengue é a febre alta (39° a 40°C),
+        de início abrupto, que geralmente dura de 2 a 7 dias, acompanhada de dor de cabeça, dores no corpo e
+        articulações, prostração, fraqueza, dor atrás dos olhos, erupção e coceira na pele. Perda de peso,
+        náuseas e vômitos são comuns. Na fase febril inicial da doença pode ser difícil diferenciá-la. A
+        forma grave da doença inclui dor abdominal intensa e contínua, vômitos persistentes, sangramento de
+        mucosas, entre outros sintomas. Ao apresentar os sintomas,
+        é importante procurar um serviço de saúde.</string>
+
+    <string name="tratamento_dengue">Não existe tratamento específico para dengue. O tratamento é feito
+        para aliviar os sintomas Quando aparecer os sintomas, é importante procurar um serviço de saúde
+        mais próximo, fazer repouso e ingerir bastante líquido. Importante não tomar medicamentos
+        por conta própria.</string>
+
+    <string name="prevenir_dengue">Ainda não existe vacina ou medicamentos contra dengue. Portanto,
+        a única forma de prevenção é acabar com o mosquito, mantendo o domicílio sempre limpo,
+        eliminando os possíveis criadouros. Roupas que minimizem a exposição da pele durante o dia,
+        quando os mosquitos são mais ativos, proporcionam alguma proteção às picadas e podem ser
+        adotadas principalmente durante surtos. Repelentes e inseticidas também podem ser usados,
+        seguindo as instruções do rótulo. Mosquiteiros proporcionam boa proteção pra aqueles que
+        dormem durante o dia (por exemplo: bebês, pessoas acamadas e trabalhadores noturnos).</string>
+
+    <!-- Tudo sobre Chikungunya -->
+
+    <string name="oquee_chikun">A Febre Chikungunya é uma doença transmitida pelos mosquitos Aedes
+        aegypti e Aedes albopictus. No Brasil, a circulação do vírus foi identificada pela primeira
+        vez em 2014. Chikungunya significa "aqueles que se dobram" em swahili, um dos idiomas da
+        Tanzânia. Refere-se à aparência curvada dos pacientes que foram atendidos na primeira epidemia
+        documentada, na Tanzânia, localizada no leste da África, entre 1952 e 1953. </string>
+
+    <string name="sintomas_chikun">Os principais sintomas são febre alta de início rápido, dores
+        intensas nas articulações dos pés e mãos, além de dedos, tornozelos e pulsos. Pode ocorrer
+        ainda dor de cabeça, dores nos músculos e manchas vermelhas na pele. Não é possível ter
+        chikungunya mais de uma vez. Depois de infectada, a pessoa fica imune pelo resto da vida.
+        Os sintomas iniciam entre dois e doze dias após a picada do mosquito. O mosquito adquire o
+        vírus CHIKV ao picar uma pessoa infectada, durante o período em que o vírus está presente no
+        organismo infectado. Cerca de 30% dos casos não apresentam sintomas.</string>
+
+    <string name="tratamento_chikun">Não existe vacina ou tratamento específico para Chikungunya.
+        Os sintomas são tratados com medicação para a febre (paracetamol) e as dores articulares
+        (antiinflamatórios). Não é recomendado usar o ácido acetil salicílico (AAS) devido ao risco
+        de hemorragia. Recomenda‐se repouso absoluto ao paciente, que deve beber líquidos em
+        abundância.</string>
+
+    <string name="prevenir_chikun">Assim como a dengue, é fundamental que as pessoas reforcem as
+        medidas de eliminação dos criadouros de mosquitos nas suas casas e na vizinhança. Quando há
+        notificação de caso suspeito, as Secretarias Municipais de Saúde devem adotar ações de
+        eliminação de focos do mosquito nas áreas próximas à residência e ao local de atendimento
+        dos pacientes.</string>
+
+    <!-- Tudo sobre Zika -->
+
+    <string name="oquee_zika">O Zika é um vírus transmitido pelo Aedes aegypti e identificado pela
+        primeira vez no Brasil em abril de 2015. O vírus Zika recebeu a mesma denominação do local
+        de origem de sua identificação em 1947, após detecção em macacos sentinelas para monitoramento
+        da febre amarela, na floresta Zika, em Uganda.</string>
+
+    <string name="sintomas_zika">Cerca de 80% das pessoas infectadas pelo vírus Zika não desenvolvem
+        manifestações clínicas. Os principais sintomas são dor de cabeça, febre baixa, dores leves nas
+        articulações, manchas vermelhas na pele, coceira e vermelhidão nos olhos. Outros sintomas menos
+        frequentes são inchaço no corpo, dor de garganta, tosse e vômitos. No geral, a evolução da doença
+        é benigna e os sintomas desaparecem espontaneamente após 3 a 7 dias. No entanto, a dor nas
+        articulações pode persistir por aproximadamente um mês. Formas graves e atípicas são raras,
+        mas quando ocorrem podem, excepcionalmente, evoluir para óbito, como identificado no mês de
+        novembro de 2015, pela primeira vez na história. Observe o aparecimento de sinais e sintomas
+        de infecção por vírus Zika e busque um serviço de saúde para atendimento, caso necessário.</string>
+
+    <string name="transmissao_zika">O principal modo de transmissão descrito do vírus é pela picada
+        do Aedes aegypti. Outras possíveis formas de transmissão do vírus Zika precisam ser avaliadas
+        com mais profundidade, com base em estudos científicos. Não há evidências de transmissão do
+        vírus Zika por meio do leite materno, assim como por urina, saliva e sêmen. Conforme estudos
+        aplicados na Polinésia Francesa, não foi identificada a replicação do vírus em amostras do leite,
+        assim como a doença não pode ser classificada como sexualmente transmissível. Também não há descrição
+        de transmissão por saliva.</string>
+
+    <string name="tratamento_zika">Não existe tratamento específico para a infecção pelo vírus Zika.
+        Também não há vacina contra o vírus. O tratamento recomendado para os casos sintomáticos é
+        baseado no uso de acetaminofeno (paracetamol) ou dipirona para o controle da febre e manejo
+        da dor. No caso de erupções pruriginosas, os anti-histamínicos podem ser considerados. Não se
+        recomenda o uso de ácido acetilsalicílico (AAS) e outros anti-inflamatórios, em função do risco
+        aumentado de complicações hemorrágicas descritas nas infecções por outros flavivírus. Os casos
+        suspeitos devem ser tratados como dengue, devido à sua maior frequência e gravidade conhecida.</string>
+
+    <!-- Tudo sobre o Aedes -->
+
+    <string name="mosquito">O Mosquito Aedes aegypti mede menos de um centímetro, tem aparência inofensiva,
+        cor café ou preta e listras brancas no corpo e nas pernas. Costuma picar nas primeiras horas da
+        manhã e nas últimas da tarde, evitando o sol forte, mas, mesmo nas horas quentes, ele pode atacar
+        à sombra, dentro ou fora de casa. Há suspeitas de que alguns ataquem também durante a noite.
+        O indivíduo não percebe a picada, pois no momento não dói e nem coça.</string>
+
+    <string name="modo_transmissao">A fêmea pica a pessoa infectada, mantém o vírus na saliva e o retransmite.
+        A transmissão ocorre pelo ciclo homem-Aedes aegypti-homem. Após a ingestão de sangue infectado pelo
+        inseto fêmea, transcorre na fêmea um período de incubação. Após esse período, o mosquito torna-se
+        apto a transmitir o vírus e assim permanece durante toda a vida. Não há transmissão pelo contato
+        de um doente ou suas secreções com uma pessoa sadia, nem fontes de água ou alimento. O mosquito
+        Aedes aegypti também pode transmitir a febre amarela.</string>
+
+    <string name="incubacao_mosquito">A incubação varia de 3 a 15 dias, mas tem como média de cinco a seis dias.</string>
+
+    <string name="ciclo_mosquito">O ciclo do Aedes aegypti é composto por quatro fases: ovo, larva, pupa
+        e adulto. As larvas se desenvolvem em água parada, limpa ou suja. Na fase do acasalamento, em
+        que as fêmeas precisam de sangue para garantir o desenvolvimento dos ovos, ocorre a transmissão
+        da doença. O seu controle é difícil, por ser muito versátil na escolha dos criadouros onde
+        deposita seus ovos, que são extremamente resistentes, podendo sobreviver vários meses até que
+        a chegada de água propicia a incubação. Uma vez imersos, os ovos desenvolvem-se rapidamente em
+        larvas, que dão origem às pupas, das quais surge o adulto. O único modo possível de evitar
+        a transmissão da dengue é a eliminação do mosquito transmissor. A melhor forma de se evitar
+        a dengue é combater os focos de acúmulo de água, locais propícios para a criação do mosquito
+        transmissor da doença.</string>
+</resources>

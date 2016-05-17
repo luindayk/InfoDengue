@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent">
+
+        <TextView
+            style="@style/texto"
+            android:text="Aedes Aegypti"
+            android:textStyle="bold"
+            android:textSize="44sp"
+            android:textAllCaps="true"
+            android:layout_marginTop="16dp"/>
+        <ImageView
+            style="@style/imagem"
+            android:src="@drawable/aedes_6"/>
+        <TextView
+            style="@style/texto"
+            android:text="@string/mosquito"
+            android:textStyle="italic"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            style="@style/texto"
+            android:text="@string/modo_transmissao"
+            android:textStyle="italic"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            style="@style/texto"
+            android:text="@string/incubacao_mosquito"
+            android:textStyle="italic"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            style="@style/texto"
+            android:text="@string/ciclo_mosquito"
+            android:textStyle="italic"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+</ScrollView>
